@@ -278,7 +278,7 @@ const team = [
     },
     {
         teamname: "Chetak",
-        name: "Name",
+        name: "Shravya",
         college: "Your College",
         batch: 2016,
         quote: "Your quote",
